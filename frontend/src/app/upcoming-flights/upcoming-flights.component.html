@@ -1,0 +1,59 @@
+<div class="container">
+
+   
+    <div class="left"  [ngClass]="{flip:flip}">
+        <div class="list_of_label">
+            
+          
+          
+            <div class="flight_cards2"  style="display: flex; justify-content: space-around; align-items: center;">
+                <div >
+                   FNO
+                 </div>
+                 <div>
+                  SOURCE 
+               </div>
+               <div  >
+                  DESTINATION 
+               </div>
+               <div  >
+                 TRAVEL DATE
+               </div>
+               <div>
+
+               </div>
+             
+            </div>
+        </div>
+        <div class="list_of_flight">
+            <button mat-fab color="warn" aria-label="Example icon button with a delete icon" (click)="flipper()" style="display: block; position: absolute; left: 92%; top: 0%; width:0%; height: 0%; color: red;"><mat-icon >highlight_off</mat-icon></button>
+            <div class="flight_cards" *ngFor="let fb of flightBooked;index as i" style="display: flex; justify-content: space-around; align-items: center;">
+                <div  >
+                    {{fb.flight.fId.flightNumber}}
+
+                 </div>
+                 <div  >
+                    {{fb.flight.source}}
+                 </div>
+                 <div  >
+                    {{fb.flight.destination}}
+                 </div>
+                
+               <div>
+                {{fb.flight.fId.travelDate}}
+               </div>
+               <div>
+
+                   <button mat-button color="warn" (click)="removeFlight(i)">Cancel</button>
+               </div>
+            </div>
+            
+        </div>
+
+    </div>
+    <img src="assets/img/register.png" alt="remove a flight"  [ngClass]={flip:!flip,back:true} (click)="flipper()">
+  <div  [ngClass]={flip:!flip,back2:true} (click)="flipper()">
+      <h1>UPCOMING FLIGHTS</h1>
+  </div>
+    
+   </div>

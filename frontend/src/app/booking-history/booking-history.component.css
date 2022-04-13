@@ -1,0 +1,108 @@
+mat-form-field {
+    margin-right: 12px;
+  }
+
+
+.left{
+ 
+  height: 100%;
+  width: 100%;
+
+  backface-visibility: hidden;
+  transition: all 1s;
+
+
+
+}
+
+  .back{
+        
+    top: 0px;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transition: all 1s;
+    
+}
+.flip{
+  transform: rotateY(180deg);
+
+}
+
+.container{
+  position: relative;
+  
+  height: 455px;
+
+}
+
+
+.back2{
+  text-align: center;   
+  top: 0;
+ opacity: 0;
+ position: absolute;
+height: 100%;
+width: 100%;
+backface-visibility: hidden;
+ transition: all 1s;
+
+ 
+}
+.back2:hover{
+ opacity: 0.8;
+}
+.list_of_flight{
+
+  width: 84%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  height: 75%;
+  overflow: scroll;
+}
+.flight_cards{
+  background-color: rgb(187, 207, 212);
+  margin-top: 3%;
+  margin-left: 20px;
+  height: 14%;
+  width: 100%;
+}
+
+
+
+.flight_cards2{
+  background-color: rgb(128, 135, 136);
+  
+  margin-left: auto;
+  margin-right: auto;
+   width: 95%;
+   height: 90%;
+  
+ }
+ .flight_cards > div{
+   width: 22%;
+   overflow: scroll;
+ }
+ .flight_cards2 > div{
+  width: 18%;
+  overflow: scroll;
+}
+
+ .list_of_label{
+  width: 84%;
+  margin-left: 10%;
+
+  margin-top: 1%;
+  height: 13%;
+  overflow: scroll;
+ }
+
+  
+
+
+
+
+

@@ -1,0 +1,76 @@
+.container{
+    
+    height: 500px;
+    width: 28%;
+    background-color: rgb(202, 217, 218);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2em;
+    border-radius: 5px;
+   
+   
+    transition: transform 1.8s;
+    opacity: 0.92;
+}
+
+input{
+    margin-left: 30px;
+    width: 80%;
+}
+
+
+
+.proceed{
+    position: absolute;
+   
+   top: 90%;
+   left: 69.3%;
+    display: block;
+    height: 30px;
+    width: 90px;
+    padding-bottom: 37px;
+    font-size: 1.4em;
+    background-color:rgb(80, 187, 80);
+    border: none;
+}
+
+
+.flip{
+    transform: rotateY(90deg);
+}
+
+.payment_method{
+    margin-top: 20px;
+}
+
+.example-form-field {
+    width: 200px;
+  }
+
+.spinner{
+    position: absolute;
+    top: 300px;
+    right: 284px;
+    transition: all 1.2s;
+}
+
+.hide{
+    opacity: 0;
+}
+
+.hide_container{
+    opacity: 0.3;
+}
+
+.background{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+   
+   
+
+}
+   
+

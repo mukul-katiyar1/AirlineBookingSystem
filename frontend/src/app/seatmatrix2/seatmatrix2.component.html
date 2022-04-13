@@ -1,0 +1,123 @@
+<!-- <video autoplay muted loop id="myVideo">
+   <source src="assets/vid/cloud.mp4" type="video/mp4">
+ </video>  -->
+ <div [ngClass]="{container:1}" >
+
+
+    <div class="cabin">
+       <h2>Cabin This side</h2>
+    </div>
+    <div class="info">
+    Your selection-<button class="blue"> &nbsp;</button> &nbsp; &nbsp; &nbsp; Available seats-<button class="green"> &nbsp;</button>  &nbsp; &nbsp; &nbsp; Taken seats-<button class="red"> &nbsp;</button> 
+    </div>
+    <mat-divider></mat-divider>
+    <div class="deck">
+        <h3>Business</h3>
+        <div class="business">
+            <div class="col1">
+             <div class="button_row">
+                <button [ngClass]="{blue:new[0],green:!new[0],red:old[0]}" (click)="change(0)">1A</button> &nbsp;
+                <button [ngClass]="{blue:new[1],green:!new[1],red:old[1]}" (click)="change(1)">1B</button> &nbsp;
+                <button [ngClass]="{blue:new[2],green:!new[2],red:old[2]}" (click)="change(2)">1C</button> &nbsp; <br>
+             </div>
+             <div class="button_row">
+                <button [ngClass]="{blue:new[6],green:!new[6],red:old[6]}" (click)="change(6)">2A</button> &nbsp;
+                <button [ngClass]="{blue:new[7],green:!new[7],red:old[7]}" (click)="change(7)">2B</button> &nbsp;
+                <button [ngClass]="{blue:new[8],green:!new[8],red:old[8]}" (click)="change(8)">2C</button> &nbsp; <br>
+             </div>
+            
+            
+            </div>
+ 
+            <div class="col2">
+                <div class="button_row">
+                    <button [ngClass]="{blue:new[3],green:!new[3],red:old[3]}" (click)="change(3)">1D</button> &nbsp;
+                    <button [ngClass]="{blue:new[4],green:!new[4],red:old[4]}" (click)="change(4)">1E</button> &nbsp;
+                    <button [ngClass]="{blue:new[5],green:!new[5],red:old[5]}" (click)="change(5)">1F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[9],green:!new[9],red:old[9]}" (click)="change(9)">2D</button> &nbsp;
+                    <button [ngClass]="{blue:new[10],green:!new[10],red:old[10]}" (click)="change(10)">2E</button> &nbsp;
+                    <button [ngClass]="{blue:new[11],green:!new[11],red:old[11]}" (click)="change(11)">2F</button> &nbsp; <br>
+                 </div>
+            </div>
+        </div>
+        <hr>
+        <h3>Economy</h3>
+        <div class="economy">
+            <div class="col1">
+                <div class="button_row">
+                    <button [ngClass]="{blue:new[12],green:!new[12],red:old[12]}" (click)="change(12)">3A</button> &nbsp;
+                    <button [ngClass]="{blue:new[13],green:!new[13],red:old[13]}" (click)="change(13)">3B</button> &nbsp;
+                    <button [ngClass]="{blue:new[14],green:!new[14],red:old[14]}" (click)="change(14)">3C</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[18],green:!new[18],red:old[18]}" (click)="change(18)">4A</button> &nbsp;
+                    <button [ngClass]="{blue:new[19],green:!new[19],red:old[19]}" (click)="change(19)">4B</button> &nbsp;
+                    <button [ngClass]="{blue:new[20],green:!new[20],red:old[20]}" (click)="change(20)">4C</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[24],green:!new[24],red:old[24]}" (click)="change(24)">5A</button> &nbsp;
+                    <button [ngClass]="{blue:new[25],green:!new[25],red:old[25]}" (click)="change(25)">5B</button> &nbsp;
+                    <button [ngClass]="{blue:new[26],green:!new[26],red:old[26]}" (click)="change(26)">5C</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[30],green:!new[30],red:old[30]}" (click)="change(30)">6A</button> &nbsp;
+                    <button [ngClass]="{blue:new[31],green:!new[31],red:old[31]}" (click)="change(31)">6B</button> &nbsp;
+                    <button [ngClass]="{blue:new[32],green:!new[32],red:old[32]}" (click)="change(32)">6C</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[36],green:!new[36],red:old[36]}" (click)="change(36)">7A</button> &nbsp;
+                    <button [ngClass]="{blue:new[37],green:!new[37],red:old[37]}" (click)="change(37)">7B</button> &nbsp;
+                    <button [ngClass]="{blue:new[38],green:!new[38],red:old[38]}" (click)="change(38)">7C</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[42],green:!new[42],red:old[42]}" (click)="change(42)">8A</button> &nbsp;
+                    <button [ngClass]="{blue:new[43],green:!new[43],red:old[43]}" (click)="change(43)">8B</button> &nbsp;
+                    <button [ngClass]="{blue:new[44],green:!new[44],red:old[44]}" (click)="change(44)">8C</button> &nbsp; <br>
+                 </div>
+                
+            </div>
+ 
+            <div class="col2">
+                <div class="button_row">
+                    <button [ngClass]="{blue:new[15],green:!new[15],red:old[15]}" (click)="change(15)">3D</button> &nbsp;
+                    <button [ngClass]="{blue:new[16],green:!new[16],red:old[16]}" (click)="change(16)">3E</button> &nbsp;
+                    <button [ngClass]="{blue:new[17],green:!new[17],red:old[17]}" (click)="change(17)">3F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[21],green:!new[21],red:old[21]}" (click)="change(21)">4D</button> &nbsp;
+                    <button [ngClass]="{blue:new[22],green:!new[22],red:old[22]}" (click)="change(22)">4E</button> &nbsp;
+                    <button [ngClass]="{blue:new[23],green:!new[23],red:old[23]}" (click)="change(23)">4F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[27],green:!new[27],red:old[27]}" (click)="change(27)">5D</button> &nbsp;
+                    <button [ngClass]="{blue:new[28],green:!new[28],red:old[28]}" (click)="change(28)">5E</button> &nbsp;
+                    <button [ngClass]="{blue:new[29],green:!new[29],red:old[29]}" (click)="change(29)">5F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[33],green:!new[33],red:old[33]}" (click)="change(33)">6D</button> &nbsp;
+                    <button [ngClass]="{blue:new[34],green:!new[34],red:old[34]}" (click)="change(34)">6E</button> &nbsp;
+                    <button [ngClass]="{blue:new[35],green:!new[35],red:old[35]}" (click)="change(35)">6F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[39],green:!new[39],red:old[39]}" (click)="change(39)">7D</button> &nbsp;
+                    <button [ngClass]="{blue:new[40],green:!new[40],red:old[40]}" (click)="change(40)">7E</button> &nbsp;
+                    <button [ngClass]="{blue:new[41],green:!new[41],red:old[41]}" (click)="change(41)">7F</button> &nbsp; <br>
+                 </div>
+                 <div class="button_row">
+                    <button [ngClass]="{blue:new[45],green:!new[45],red:old[45]}" (click)="change(45)">8D</button> &nbsp;
+                    <button [ngClass]="{blue:new[46],green:!new[46],red:old[46]}" (click)="change(46)">8E</button> &nbsp;
+                    <button [ngClass]="{blue:new[47],green:!new[47],red:old[47]}" (click)="change(47)">8F</button> &nbsp; <br>
+                 </div>
+                
+            </div>
+ 
+            
+        </div>
+        Total cost- {{current_cost}}
+        <div class="pay">
+       <button mat-raised-button color="primary" [disabled]="goForward" (click)="pay()"> Proceed </button>
+       </div>
+    </div>
+ </div>

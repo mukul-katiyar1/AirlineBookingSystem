@@ -1,0 +1,47 @@
+
+.container{
+        margin-top: 3%;
+      
+       height: 500px;
+       width: 100%;
+       display: flex;
+       justify-content: space-around;
+   
+}
+.navbar{
+        display: flex;
+       height: 70px;
+        justify-content: space-between;
+        align-items: center;
+     
+}
+#stark{
+        margin-top: 38px;
+        font-size: 2em;
+        font-weight: 600;
+        color:  #1c4c80;;
+       
+}
+.navbar span{
+        margin-left: 6px;
+}
+.navbar img{
+        display: block;
+        height:80px;
+        width: 80px;
+        margin-top: 10px;
+        
+}
+.block_image{
+        display: block;
+        width: 30%;
+        height:82%
+     
+}
+
+.form{
+        width: 20%;
+}
+
+
+

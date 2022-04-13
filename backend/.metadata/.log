@@ -1,0 +1,1283 @@
+!SESSION 2020-10-08 22:11:35.894 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+
+!ENTRY org.eclipse.jface 2 0 2020-10-08 22:12:05.642
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-08 22:12:05.642
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@481eb705,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ae0eb98,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-08 22:12:33.549
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-10-08 23:21:50.853 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+
+!ENTRY org.eclipse.jface 2 0 2020-10-08 23:22:10.855
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-08 23:22:10.855
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48dc9950,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43735ea0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-08 23:22:33.782
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-10-09 09:06:59.273 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+
+!ENTRY org.eclipse.jface 2 0 2020-10-09 09:07:43.841
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-09 09:07:43.841
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@377cc0f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25c98637,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-09 09:08:07.121
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-10-09 12:18:53.046 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -XX:-UseCompressedOops
+
+!ENTRY org.eclipse.jface 2 0 2020-10-09 12:19:08.410
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-09 12:19:08.410
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2be208db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ed463b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-09 12:19:24.043
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-05 13:00:05.476 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2020-11-05 13:00:31.478
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.479
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-05 13:00:31.480
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-05 13:00:36.790
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-05 13:00:36.790
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@563bf9d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@19305a7c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-05 13:01:02.140
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.jboss.tools.foundation.core 8 0 2020-11-05 13:01:19.680
+!MESSAGE Operation canceled
+
+!ENTRY org.jboss.tools.project.examples 2 0 2020-11-05 13:01:19.726
+!MESSAGE Invalid URL: http://download.jboss.org/jbosstools/examples/4/4/project-examples-category.xml
+!SESSION 2020-11-07 17:40:05.985 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.etools.aries.maven.core 4 0 2020-11-07 17:40:20.593
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.aries.maven.core [1728]
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.500,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+       com.ibm.etools.maven.javaee.core [1753]
+         Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+         Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+           -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+              com.ibm.etools.maven.liberty.integration [1755]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+                     com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                         -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                            com.ibm.ws.st.jee.core [1851]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                         -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                            com.ibm.ws.st.ui [1854]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                         -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.aries.maven.ui 4 0 2020-11-07 17:40:20.628
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.aries.maven.ui [1729]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.aries.maven.core; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.aries.maven.core; bundle-version="1.0.210.v20200826_1754"; singleton:="true"
+       com.ibm.etools.aries.maven.core [1728]
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.0,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+         Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.500,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+              com.ibm.etools.maven.javaee.core [1753]
+                Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+                Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+                  -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+                     com.ibm.etools.maven.liberty.integration [1755]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                         -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+                            com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                                -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                                   com.ibm.ws.st.jee.core [1851]
+                                     Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                       -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                                -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                              Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                                -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                                   com.ibm.ws.st.ui [1854]
+                                     Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                       -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                              Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                                -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+                  -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.javaee.core 4 0 2020-11-07 17:40:20.701
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.javaee.core [1753]
+  Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+  Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+    -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+       com.ibm.etools.maven.liberty.integration [1755]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+              com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                     com.ibm.ws.st.core [1850]
+                       Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                  -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                     com.ibm.ws.st.jee.core [1851]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                  -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                     com.ibm.ws.st.ui [1854]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                  -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.javaee.ui 4 0 2020-11-07 17:40:20.727
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.javaee.ui [1754]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.0,1.2.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+       com.ibm.etools.maven.javaee.core [1753]
+         Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+         Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+           -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+              com.ibm.etools.maven.liberty.integration [1755]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+                     com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                            com.ibm.ws.st.core [1850]
+                              Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                         -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                            com.ibm.ws.st.jee.core [1851]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                         -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                            com.ibm.ws.st.ui [1854]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                         -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.liberty.integration 4 0 2020-11-07 17:40:20.750
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.liberty.integration [1755]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+       com.ibm.ws.st.liberty.buildplugin.integration [1852]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+           -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+              com.ibm.ws.st.jee.core [1851]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+           -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+              com.ibm.ws.st.ui [1854]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.restapi.documentation.swagger.core 4 0 2020-11-07 17:40:20.771
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.restapi.documentation.swagger.core [1757]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.restapi.documentation.swagger.ui 4 0 2020-11-07 17:40:20.789
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.restapi.documentation.swagger.ui [1758]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.core [1757]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.etools.openapi.core
+    -> Export-Package: com.ibm.etools.openapi.core; bundle-symbolic-name="com.ibm.etools.restapi.documentation.swagger.core"; bundle-version="1.0.301.v20200826_1754"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.jee.annotations.processor 4 0 2020-11-07 17:40:20.802
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.jee.annotations.processor [1781]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.core [1757]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.ui; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.ui; bundle-version="1.1.600.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.ui [1758]
+         Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+           -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.etools.openapi.core
+           -> Export-Package: com.ibm.etools.openapi.core; bundle-symbolic-name="com.ibm.etools.restapi.documentation.swagger.core"; bundle-version="1.0.301.v20200826_1754"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.core 4 0 2020-11-07 17:40:20.818
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.core [1850]
+  Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.jee.core 4 0 2020-11-07 17:40:20.847
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.jee.core [1851]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.liberty.buildplugin.integration 4 0 2020-11-07 17:40:20.875
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.liberty.buildplugin.integration [1852]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+    -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+       com.ibm.ws.st.jee.core [1851]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+    -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+       com.ibm.ws.st.ui [1854]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.ui 4 0 2020-11-07 17:40:20.893
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.ui [1854]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.ui 2 0 2020-11-07 17:40:39.474
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.474
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.474
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.474
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.475
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.476
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-07 17:40:39.477
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-07 17:40:43.755
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-07 17:40:43.755
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@527e6bd3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4867e76b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-07 17:41:09.851
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2020-11-07 17:41:16.965
+!MESSAGE Referenced part does not exist yet: com.ibm.etools.ui.navigator.SDExplorer.
+!SESSION 2020-11-26 15:28:45.096 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -XX:-UseCompressedOops -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.etools.aries.maven.core 4 0 2020-11-26 15:28:54.196
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.aries.maven.core [1728]
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.500,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+       com.ibm.etools.maven.javaee.core [1753]
+         Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+              com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                  -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                     com.ibm.ws.st.jee.core [1851]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                  -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                     com.ibm.ws.st.ui [1854]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                  -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+           -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+              com.ibm.etools.maven.liberty.integration [1755]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.aries.maven.ui 4 0 2020-11-26 15:28:54.271
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.aries.maven.ui [1729]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.aries.maven.core; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.aries.maven.core; bundle-version="1.0.210.v20200826_1754"; singleton:="true"
+       com.ibm.etools.aries.maven.core [1728]
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.0,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+         Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.500,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+              com.ibm.etools.maven.javaee.core [1753]
+                Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+                     com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                         -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                            com.ibm.ws.st.jee.core [1851]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                         -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                            com.ibm.ws.st.ui [1854]
+                              Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                                -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                       Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                         -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+                Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+                  -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+                     com.ibm.etools.maven.liberty.integration [1755]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                         -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+                  -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.javaee.core 4 0 2020-11-26 15:28:54.329
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.javaee.core [1753]
+  Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+       com.ibm.ws.st.liberty.buildplugin.integration [1852]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+           -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+              com.ibm.ws.st.jee.core [1851]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                     com.ibm.ws.st.core [1850]
+                       Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+           -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+              com.ibm.ws.st.ui [1854]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+  Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+    -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+       com.ibm.etools.maven.liberty.integration [1755]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.javaee.ui 4 0 2020-11-26 15:28:54.383
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.javaee.ui [1754]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.maven.javaee.core; bundle-version="[1.1.0,1.2.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.maven.javaee.core; bundle-version="1.1.605.v20200826_1754"; singleton:="true"
+       com.ibm.etools.maven.javaee.core [1753]
+         Unresolved requirement: Require-Bundle: com.ibm.jee.batch.core; bundle-version="[1.0.100,2.0.0)"; resolution:="optional"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+           -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+              com.ibm.ws.st.liberty.buildplugin.integration [1852]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+                  -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+                     com.ibm.ws.st.jee.core [1851]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                            com.ibm.ws.st.core [1850]
+                              Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+                  -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+                     com.ibm.ws.st.ui [1854]
+                       Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                         -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+                  -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.etools.maven.liberty.integration.manager.internal
+           -> Export-Package: com.ibm.etools.maven.liberty.integration.manager.internal; bundle-symbolic-name="com.ibm.etools.maven.liberty.integration"; bundle-version="1.2.2.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.etools.maven.javaee.core"
+              com.ibm.etools.maven.liberty.integration [1755]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+                  -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core; bundle-version="[1.0.710,2.0.0)"
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.maven.liberty.integration 4 0 2020-11-26 15:28:54.392
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.maven.liberty.integration [1755]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.manager.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+       com.ibm.ws.st.liberty.buildplugin.integration [1852]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+           -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+              com.ibm.ws.st.jee.core [1851]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+                     com.ibm.ws.st.core [1850]
+                       Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+           -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+              com.ibm.ws.st.ui [1854]
+                Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+                  -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+         Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+           -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal
+    -> Export-Package: com.ibm.ws.st.liberty.buildplugin.integration.internal; bundle-symbolic-name="com.ibm.ws.st.liberty.buildplugin.integration"; bundle-version="1.0.3.v2020-08-26_1523"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.restapi.documentation.swagger.core 4 0 2020-11-26 15:28:54.426
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.restapi.documentation.swagger.core [1757]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.etools.restapi.documentation.swagger.ui 4 0 2020-11-26 15:28:54.435
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.etools.restapi.documentation.swagger.ui [1758]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.core [1757]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.etools.openapi.core
+    -> Export-Package: com.ibm.etools.openapi.core; bundle-symbolic-name="com.ibm.etools.restapi.documentation.swagger.core"; bundle-version="1.0.301.v20200826_1754"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.jee.annotations.processor 4 0 2020-11-26 15:28:54.446
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.jee.annotations.processor [1781]
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.core [1757]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.ui; bundle-version="[1.0.0,2.0.0)"
+    -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.ui; bundle-version="1.1.600.v20200826_1754"; singleton:="true"
+       com.ibm.etools.restapi.documentation.swagger.ui [1758]
+         Unresolved requirement: Require-Bundle: com.ibm.etools.restapi.documentation.swagger.core
+           -> Bundle-SymbolicName: com.ibm.etools.restapi.documentation.swagger.core; bundle-version="1.0.301.v20200826_1754"; singleton:="true"
+         Unresolved requirement: Import-Package: com.ibm.etools.openapi.core
+           -> Export-Package: com.ibm.etools.openapi.core; bundle-symbolic-name="com.ibm.etools.restapi.documentation.swagger.core"; bundle-version="1.0.301.v20200826_1754"; version="0.0.0"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.core 4 0 2020-11-26 15:28:54.478
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.core [1850]
+  Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.jee.core 4 0 2020-11-26 15:28:54.488
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.jee.core [1851]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.liberty.buildplugin.integration 4 0 2020-11-26 15:28:54.533
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.liberty.buildplugin.integration [1852]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.jee.core.internal
+    -> Export-Package: com.ibm.ws.st.jee.core.internal; bundle-symbolic-name="com.ibm.ws.st.jee.core"; bundle-version="1.0.605.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.jee.ui"
+       com.ibm.ws.st.jee.core [1851]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+              com.ibm.ws.st.core [1850]
+                Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config; resolution:="optional"
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.ui
+    -> Bundle-SymbolicName: com.ibm.ws.st.ui; bundle-version="1.0.711.v2020-08-26_1523"; singleton:="true"
+       com.ibm.ws.st.ui [1854]
+         Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+           -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal; resolution:="optional"
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+  Unresolved requirement: Require-Bundle: com.ibm.ws.st.core
+    -> Bundle-SymbolicName: com.ibm.ws.st.core; bundle-version="1.0.909.v2020-08-26_1523"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY com.ibm.ws.st.ui 4 0 2020-11-26 15:28:54.543
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.ibm.ws.st.ui [1854]
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal.config
+    -> Export-Package: com.ibm.ws.st.core.internal.config; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.jee.core,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+       com.ibm.ws.st.core [1850]
+         Unresolved requirement: Import-Package: com.sun.jdi; bundle-symbolic-name="org.eclipse.jdt.debug"
+  Unresolved requirement: Import-Package: com.ibm.ws.st.core.internal
+    -> Export-Package: com.ibm.ws.st.core.internal; bundle-symbolic-name="com.ibm.ws.st.core"; bundle-version="1.0.909.v2020-08-26_1523"; version="0.0.0"; x-friends:="com.ibm.ws.st.ui,  com.ibm.ws.st.docker.core,  com.ibm.ws.st.docker.ui"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-26 15:29:07.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-26 15:29:17.146
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-26 15:29:17.146
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1509dade,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ca5720a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-26 15:29:57.048
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mukul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

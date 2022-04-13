@@ -1,0 +1,53 @@
+<div class="background">
+
+  <img src="assets/img/login1.png" alt="">
+  
+  <div class="main" [ngClass]="{cadet:selected_index,darkBlue:!selected_index}">
+  
+    
+  
+       <div class="picture">
+        <div style="width: 50%; height: 100%;" class="label" [ngClass]="{cadet:selected_index,white:!selected_index}" (click)="selected_index=1">
+          <img src="assets/img/user6.png" alt="">
+
+        </div>
+        <div style="width: 50%; height: 100%; "   class="label" [ngClass]="{darkBlue:!selected_index,white:selected_index}" (click)="selected_index=0">
+          <img src="assets/img/admin6.png" alt="" style="margin-top: 5%;">
+        </div>
+      </div>
+      <div style="width: 100%; height: 4%;  display: flex; justify-content: space-around; margin-bottom: 3%;">
+        <div  class="who_is_who"  >User</div>
+        <div  class="who_is_who" >Admin</div>    
+      </div>
+      
+      
+          <div class="input" [ngClass]="{cadet:selected_index,darkBlue:!selected_index}">
+       
+          <form [formGroup]="userLogin">
+          
+            <mat-form-field>
+              <mat-label>Email</mat-label>
+              <input matInput formControlName="email" placeholder="email" required>
+            </mat-form-field>
+           <br>
+           
+            <mat-form-field>
+              <mat-label>Password</mat-label>
+              <input type="password" matInput formControlName="password" placeholder="password" required>
+            </mat-form-field>
+            </form>
+        
+       
+      
+      
+       
+          </div> 
+          <div class="links" style="text-align: center;" [ngClass]="{cadet:selected_index,darkBlue:!selected_index}">   
+          <button mat-raised-button color="primary" (click)="userButton()">Login</button><br><br>      
+          <a routerLink="/forgotpassword" *ngIf="selected_index==1">Forgot password ?</a> 
+          </div>
+  
+  
+         </div>
+        
+        </div>

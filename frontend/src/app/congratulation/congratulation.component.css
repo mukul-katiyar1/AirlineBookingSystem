@@ -1,0 +1,67 @@
+.container{
+    height: 40%;
+    width: 30%;
+    background: rgba(0, 0, 0, 0.14);
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+    border-radius: 5px;
+    position: absolute;
+    left: 475px;
+    color: rgb(64, 94, 28);
+   
+    transition:
+    width 2s ease,
+   height 2s ease,
+     transform 0.5s ease;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.flip{
+    transform: rotateY(90deg);
+}
+.container img{
+   height: 95%;
+   width: 100%;
+
+}
+
+
+.aero{
+    position: absolute;
+    top: 40px;
+    left: 475px; 
+    height: 160px;
+    width: 400px;
+    transition: opacity 2s ease ;
+}
+
+.hide{
+    opacity: 0;
+}
+.reduce{
+    height: 40px;
+    width: 200px;
+}
+h1{
+    margin-left: 90px;
+   
+}
+.thank{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.background{
+    height: 100%;
+    width: 100%;
+    background-image: url('../../assets/img/scene3.png');
+    
+}

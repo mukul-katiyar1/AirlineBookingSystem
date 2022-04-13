@@ -1,0 +1,90 @@
+<div class="main">
+    <form [formGroup]="passengers">
+    <div class="passengerCard" *ngIf="totalPassengers>=1">
+        <mat-form-field>
+            <mat-label>Passenger 1 Name</mat-label>
+            <input matInput formControlName="passenger1Name" placeholder="" >
+          </mat-form-field>
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>age</mat-label>
+            <input matInput formControlName="passenger1Age" placeholder="Enter passenger 1 age" >
+          </mat-form-field>
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>Sex </mat-label>
+            <mat-select formControlName="passenger1Sex" >
+              <mat-option *ngFor="let gender of genders" [value]="gender.value">
+                {{gender.viewValue}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+    </div>
+    <div class="passengerCard" *ngIf="totalPassengers>=2">
+        <mat-form-field>
+            <mat-label>Passenger 2 name</mat-label>
+            <input matInput formControlName="passenger2Name" placeholder="" >
+          </mat-form-field> 
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>age</mat-label>
+            <input matInput formControlName="passenger2Age" placeholder=" age" >
+          </mat-form-field>
+
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>Sex </mat-label>
+            <mat-select formControlName="passenger2Sex" >
+              <mat-option *ngFor="let gender of genders" [value]="gender.value">
+                {{gender.viewValue}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+    </div>
+    <div class="passengerCard" *ngIf="totalPassengers>=3">
+        <mat-form-field>
+            <mat-label>Passenger 3 Name</mat-label>
+            <input matInput formControlName="passenger3Name" placeholder="" >
+          </mat-form-field> 
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>age</mat-label>
+            <input matInput formControlName="passenger3Age" placeholder="age" >
+          </mat-form-field>
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>Sex </mat-label>
+            <mat-select formControlName="passenger3Sex" >
+              <mat-option *ngFor="let gender of genders" [value]="gender.value">
+                {{gender.viewValue}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+    </div>
+    <div class="passengerCard" *ngIf="totalPassengers>=4">
+        <mat-form-field>
+            <mat-label>Passenger 4 Name</mat-label>
+            <input matInput formControlName="passenger4Name" placeholder="" >
+          </mat-form-field> 
+          &nbsp;
+          <mat-form-field [style.width.px]=45>
+            <mat-label>age</mat-label>
+            <input matInput formControlName="passenger4Age" placeholder="age" >
+          </mat-form-field>
+          <mat-form-field [style.width.px]=45>
+            <mat-label>Sex </mat-label>
+            <mat-select formControlName="passenger4Sex" >
+              <mat-option *ngFor="let gender of genders" [value]="gender.value">
+                {{gender.viewValue}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+    </div>
+</form>
+
+<div style="text-align: center;">
+    <button  mat-raised-button  mat-button (click)="payment()" color="primary">Submit</button>
+</div>
+<br><br>
+
+</div>

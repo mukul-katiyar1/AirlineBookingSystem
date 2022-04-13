@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    margin-top: 2%;
+    width: 48%;
+   
+}
+
+
+.navbar{
+    display: flex;
+   height: 70px;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+.navbar span{
+    margin-left: 6px;
+}
+.navbar img{
+    display: block;
+    height:80px;
+    width: 80px;
+    margin-top: 20px;
+    
+}

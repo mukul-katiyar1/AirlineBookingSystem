@@ -1,0 +1,96 @@
+.container{
+    margin-top: 20px;
+
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    left: 36%;
+ 
+   
+
+}
+.deck{
+    height: 65%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+   
+    
+}
+.cabin{
+    border-top-left-radius:30px;
+    border-top-right-radius:30px;
+    height: 20%;
+    text-align: center;
+   border: 1px black solid;
+  
+
+}
+.info{
+    height: 3.6%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+   
+}
+.economy,.business{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+
+h3{
+ 
+    margin-bottom: 2px;
+}
+.col1,.col2{
+    width: 30%;
+  
+    height: 90%;
+    color: white;
+}
+.button_row{
+    margin-bottom: 16%;
+}
+
+.green{
+    background-color: greenyellow;
+
+}
+.blue{
+    background-color: aqua;
+    
+}
+.red{
+         background-color: red;
+ }
+.button_row button{
+    
+            width: 30px;
+            cursor: pointer;
+            outline: none;
+            border-radius: 5px;
+            box-shadow: 0 5px #999;
+        }
+
+        button_row button:hover {background-color: #3e8e41}
+
+        button_row button:active {
+          background-color: #3e8e41;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+
+.pay{
+    margin-left: 40%;
+  
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }

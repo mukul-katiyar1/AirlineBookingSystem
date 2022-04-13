@@ -1,0 +1,125 @@
+<div class="background">
+
+<img src="assets/img/payment2.jpeg" alt="" style="margin-left: 7%; display: block; height: 60%; width: 40%; margin-top: 10%;">  
+<div [ngClass]="{container:true ,hide_container:hide_Container}">
+ 
+ 
+    <mat-accordion class="example-headers-align" multi="false">
+      
+       <mat-expansion-panel (opened)="panelOpenState = true"
+                            (closed)="panelOpenState = false">
+         <mat-expansion-panel-header>
+           <mat-panel-title>
+           Pay with debit card
+           </mat-panel-title>
+           <mat-panel-description>
+            
+           </mat-panel-description>
+         </mat-expansion-panel-header>
+ 
+         
+         
+         <form class="example-form">
+          <mat-form-field class="example-full-width"> 
+            <mat-label>Debit Card No</mat-label>
+            
+            <input matInput placeholder="xxx-xxxx-xxx-xxx" value="">
+          </mat-form-field>
+        &nbsp;
+          <mat-form-field  [style.width.px]=65>
+            <mat-label>CVV</mat-label>
+            <input matInput class="cvv" placeholder="xxx" value="">
+          </mat-form-field>
+        </form>
+       
+       </mat-expansion-panel>
+       <br>
+ 
+  
+    
+         
+          <mat-expansion-panel (opened)="panelOpenState = true"
+                               (closed)="panelOpenState = false">
+            <mat-expansion-panel-header>
+              <mat-panel-title>
+             Paytm
+              </mat-panel-title>
+              <mat-panel-description>
+               
+              </mat-panel-description>
+            </mat-expansion-panel-header>
+ 
+ 
+            <form class="example-form">
+             <mat-form-field class="example-full-width">
+               <mat-label>Telephone</mat-label>
+               <span matPrefix>+91 &nbsp;</span>
+               <input type="tel" matInput placeholder="7766052903">
+              
+             </mat-form-field>
+           </form>
+          </mat-expansion-panel>
+          <br>
+             <mat-expansion-panel (opened)="panelOpenState = true"
+                                  (closed)="panelOpenState = false">
+               <mat-expansion-panel-header>
+                 <mat-panel-title>
+                 Pay with credit
+                 </mat-panel-title>
+                 <mat-panel-description>
+                  
+                 </mat-panel-description>
+               </mat-expansion-panel-header>
+ 
+ 
+               <form class="example-form">
+                <mat-form-field class="example-full-width">
+                  <mat-label>credit Card No</mat-label>
+                  <input matInput placeholder="xxx-xxxx-xxx-xxx" value="">
+                </mat-form-field>
+              &nbsp;
+                <mat-form-field [style.width.px]=65>
+                  <mat-label>CVV</mat-label>
+                  <input matInput class="cvv" placeholder="xxx" value="">
+                </mat-form-field>
+              </form>
+             </mat-expansion-panel>
+        
+               <br>
+                <mat-expansion-panel (opened)="panelOpenState = true"
+                                     (closed)="panelOpenState = false">
+                  <mat-expansion-panel-header>
+                    <mat-panel-title>
+                    Pay with Google pay
+                    </mat-panel-title>
+                    <mat-panel-description>
+                     
+                    </mat-panel-description>
+                  </mat-expansion-panel-header>
+ 
+ 
+                  <form class="example-form">
+                   <mat-form-field class="example-full-width">
+                     <mat-label>UPI ID</mat-label>
+                     <input matInput placeholder="sid*****@oksbi" value="">
+                   </mat-form-field>
+                 
+                 
+                 </form>
+                </mat-expansion-panel>
+              </mat-accordion>
+          
+            
+   
+     
+ 
+              <button  class="proceed" (click)="next()" mat-raised-button color="warn">Pay</button>
+          </div>
+          
+          
+          <div [ngClass]="{spinner:true, hide:hide}">
+             <mat-spinner></mat-spinner>
+          </div>
+
+
+        </div>

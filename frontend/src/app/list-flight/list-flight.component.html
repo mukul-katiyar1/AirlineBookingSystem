@@ -1,0 +1,67 @@
+<div class="container">
+    
+    <div class="left"  [ngClass]="{flip:flip}">
+        <div class="list_of_label">
+            
+          
+          
+            <div class="flight_cards2"  style="display: flex; justify-content: space-around; align-items: center;">
+                <div>
+                   FNO
+                 </div>
+                 <div  >
+                  SOURCE 
+               </div>
+               <div  >
+                  DESTINATION 
+               </div>
+               <div  >
+                  SEATS
+               </div>
+               <div  >
+                TRAVEL DATE
+             </div>
+             <div  >
+               DEPARTURE TIME
+             </div>
+  
+
+            </div>
+        </div>
+        <div class="list_of_flight">
+            
+          
+            <button mat-fab color="warn" aria-label="Example icon button with a delete icon" (click)="flipper()" style="display: block; position: absolute; left: 92%; top: 0%; width:0%; height: 0%; color: red;"><mat-icon >highlight_off</mat-icon></button>
+          
+            <div class="flight_cards" *ngFor="let flight of flights"  style="display: flex; justify-content: space-around; align-items: center;">
+                <div  >
+                    {{flight.fId.flightNumber}} 
+                 </div>
+                 <div  >
+                    {{flight.source}} 
+               </div>
+               <div  >
+                {{flight.destination}}  
+               </div>
+               <div  >
+                {{flight.seats}}
+               </div>
+               <div  >
+                {{flight.fId.travelDate}}
+             </div>
+             <div  >
+                {{flight.departureTime}}
+             </div>
+  
+
+            </div>
+        </div>
+        
+    </div>
+    <img src="assets/img/listflight.jpeg" alt="remove a flight"  [ngClass]={flip:!flip,back:true} (click)="flipper()">
+
+    <div  [ngClass]={flip:!flip,back2:true} (click)="flipper()">
+        <h1 style="margin-top: 0%;">VIEW ALL FLIGHTS</h1>
+    </div>
+    
+      </div>

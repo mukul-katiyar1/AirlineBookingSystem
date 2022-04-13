@@ -1,0 +1,96 @@
+
+
+<div class="container">
+
+   
+    <div class="left"  [ngClass]="{flip:flip}">
+  
+     
+    <form [formGroup]="addFlightForm">
+     
+         <mat-form-field>
+        <mat-label>Flight Number</mat-label>
+        <input matInput  formControlName="flightNumber"  >
+       </mat-form-field>
+       <mat-form-field>
+
+        <mat-label>Base Fare</mat-label>
+        <input matInput  formControlName="baseFare"  >
+       </mat-form-field>
+
+       <br><br>
+     
+        <mat-form-field appearance="fill">
+        <mat-label>Source</mat-label>
+        <mat-select formControlName="source" >
+          <mat-option  *ngFor="let food of foods" [value]="food.value" >
+            {{food.viewValue}}
+           
+          </mat-option>
+         
+        </mat-select>
+       </mat-form-field>
+   
+    
+     <mat-form-field appearance="fill">
+        <mat-label>Destination </mat-label>
+        <mat-select formControlName="destination">
+          <mat-option *ngFor="let food of foods" [value]="food.value">
+            {{food.viewValue}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+   
+
+    
+        <mat-form-field appearance="fill">
+            <mat-label>Choose Travel Date</mat-label>
+            <input matInput [matDatepicker]="picker"  formControlName="departureDate" readonly >
+            <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+          </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Choose Return  Date</mat-label>
+        <input matInput [matDatepicker]="picker2" formControlName="returnDate" readonly >
+        <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Choose Arrival  Date</mat-label>
+        <input matInput [matDatepicker]="picker3" formControlName="arrivalDate" readonly >
+        <mat-datepicker-toggle matSuffix [for]="picker3"></mat-datepicker-toggle>
+        <mat-datepicker #picker3></mat-datepicker>
+      </mat-form-field>
+     
+      <mat-form-field>
+        <mat-label> Enter Departure Time</mat-label>
+        <input matInput formControlName="departureTime">
+        <mat-hint>Enter in 24 hours format eg-22:34</mat-hint>
+     </mat-form-field> 
+     <mat-form-field>
+      <mat-label> Enter Arrival Time</mat-label>
+      <input matInput formControlName="arrivalTime">
+   </mat-form-field> 
+  </form>
+ 
+   <br><br>
+   <button mat-raised-button color="primary" (click)="forward() " >Add</button>
+
+   <button mat-fab color="warn" aria-label="Example icon button with a delete icon" (click)="flipper()" style="display: block; position: absolute; left: 92%; top: 0%; width:0%; height: 0%; color: red;"><mat-icon >highlight_off</mat-icon></button>
+   &nbsp; &nbsp; &nbsp; &nbsp; 
+    
+  </div>
+  <img src="assets/img/addflight.jpeg" alt=""  [ngClass]={flip:!flip,back:true} (click)="flipper()">
+   
+  <div  [ngClass]={flip:!flip,back2:true} (click)="flipper()">
+    <h1 style="margin-top: 0%;">ADD FLIGHT</h1>
+</div>
+
+
+    </div>
+
+
+
+

@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    margin-top: 2%;
+    width: 48%;
+  
+    overflow: auto;
+   
+}
+

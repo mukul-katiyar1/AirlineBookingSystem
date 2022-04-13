@@ -1,0 +1,52 @@
+mat-form-field {
+    margin-right: 12px;
+  }
+  .left{
+      
+    padding-top: 15%;
+    background-color: rgba(255, 255, 255,0);
+     max-width: 45%;
+   
+  }
+.left div{
+  margin-left: 20px;
+ 
+}
+
+.navbar{
+  display: flex;
+ height: 70px;
+  justify-content: space-between;
+  align-items: center;
+
+}
+#stark{
+  margin-top: 38px;
+  font-size: 2em;
+  font-weight: 600;
+  color:  #1c4c80;;
+ 
+}
+.navbar span{
+  margin-left: 6px;
+}
+.navbar img{
+  display: block;
+  height:80px;
+  width: 80px;
+  margin-top: 10px;
+  
+}
+.container{
+  height: 100%;
+   display: flex;
+   justify-content: space-around;
+  /* background-image: url('../../assets/img/scene2.jpg'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mat-raised-button{
+  display: block;
+  margin-left: 42%;
+}
+

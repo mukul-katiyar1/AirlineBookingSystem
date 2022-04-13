@@ -1,0 +1,68 @@
+mat-form-field {
+    margin-right: 12px;
+  }
+
+.left div{
+  margin-left: 20px;
+ 
+}
+
+.left{
+ 
+  height: 100%;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  backface-visibility: hidden;
+  transition: all 2s;
+ text-align: center;
+
+
+
+}
+
+  .back{
+        
+    top: 0px;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transition: all 2s;
+    
+}
+  .flip{
+      transform: rotateY(180deg);
+
+  }
+
+  .container{
+    position: relative;
+    
+    height: 390px;
+  
+  }
+  .back2{
+    text-align: center;   
+    top: 0;
+   opacity: 0;
+   position: absolute;
+  height: 100%;
+  width: 100%;
+  backface-visibility: hidden;
+   transition: all 1s;
+  
+   
+}
+.back2:hover{
+   opacity: 0.8;
+}
+  
+  
+  
+
+
+
+
+

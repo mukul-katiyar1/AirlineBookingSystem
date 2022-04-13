@@ -1,0 +1,14 @@
+.container{
+    height: 100%;
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.container div{
+    width: 20%;
+    height: 100%;
+}
+.mat-card{
+    height: 92%;
+}

@@ -1,0 +1,49 @@
+
+<div class="container">
+
+   
+  <div class="left"  [ngClass]="{flip:flip}">
+    <br><br>
+    <form [formGroup]="removeFlight">
+         <mat-form-field appearance="fill">
+             <mat-label>Flight Number</mat-label>
+             <input matInput formControlName="flightNumber">
+          </mat-form-field>
+    
+ 
+     <br><br><br>
+     <div>
+         <mat-form-field appearance="fill">
+             <mat-label>Date</mat-label>
+             <input matInput [matDatepicker]="picker" formControlName="date" readonly>
+             <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+             <mat-datepicker #picker></mat-datepicker>
+           </mat-form-field>
+       &nbsp;
+       
+     </div>
+    </form>
+            
+     <div>
+      
+      <button mat-fab color="warn" aria-label="Example icon button with a delete icon" (click)="flipper()" style="display: block; position: absolute; left: 92%; top: 0%; width:0%; height: 0%; color: red;"><mat-icon >highlight_off</mat-icon></button>
+     
+       <br>
+       <br>
+       &nbsp;<button mat-raised-button color="warn" (click)="removed()">Remove</button>
+
+       <br>
+       </div>
+   
+</div>
+<img src="assets/img/removeflight.jpeg" alt="remove a flight"  [ngClass]={flip:!flip,back:true} (click)="flipper()">
+ 
+
+<div  [ngClass]={flip:!flip,back2:true} (click)="flipper()">
+  <h1 style="margin-top: 0%;">REMOVE FLIGHT</h1>
+</div>
+
+
+  </div>
+
+
